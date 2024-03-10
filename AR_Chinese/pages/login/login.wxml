@@ -1,0 +1,17 @@
+<!--pages/login/login.wxml-->
+<view class = "containers">
+  <view class = "welcome">欢迎来到AR汉服照相馆</view>
+  <view class = "login">
+    <view class = "nsername">
+      <view>用户名</view>
+      <input></input>
+    </view>
+    <view class = "key">
+      <view>密码</view>
+    </view>
+  </view>
+</view>
+
+
+
+

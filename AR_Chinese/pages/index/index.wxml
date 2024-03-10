@@ -1,0 +1,18 @@
+<!--index.wxml-->
+
+<!--进行图片滚动，展现服装细节-->
+<swiper class = "image" indicator-dots autoplay="true" circular="true">
+  <!--添加三张服饰的图片-->
+  <!--第一张-->
+  <swiper-item>
+    <view class = "img">img1</view>
+  </swiper-item>
+  <!--第二张-->
+  <swiper-item>
+    <view class = "img">img2</view>
+  </swiper-item>
+  <!--第三张-->
+  <swiper-item>
+    <view class = "img">img3</view>
+  </swiper-item>
+</swiper>

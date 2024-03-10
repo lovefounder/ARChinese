@@ -1,0 +1,23 @@
+/**index.wxss**/
+
+.image {
+  left: 10px;
+  top: 10px;
+  height: 300px;
+}
+
+.img {
+  height: 100%;
+  line-height: 300px;
+  text-align: center;
+}
+
+swiper-item:nth-child(1) .img {
+  background-color: lime;
+}
+swiper-item:nth-child(2) .img {
+  background-color: mediumslateblue;
+}
+swiper-item:nth-child(3) .img {
+  background-color: mediumvioletred; 
+}
